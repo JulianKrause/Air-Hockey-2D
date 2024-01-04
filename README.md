@@ -4,3 +4,5 @@ Ein simples Air Hockey Game für den Browser. Erstellt habe ich dieses mit dem C
 
 
 ## Demo https://juliankrause.github.io/Air-Hockey-2D/
+
+![Screenshot 2024-01-04 022833](https://github.com/JulianKrause/Air-Hockey-2D/assets/82316899/29f1bc5a-5c3c-4e6e-b879-1bdce77ece96)
