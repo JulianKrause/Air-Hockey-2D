@@ -1,1 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+body {
+    overflow: hidden;
+}
+#canvas {
+    background-color: #CFF2FF;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    color: #1B03A3;
+    font-family: SPACE MISSION;
+    font-size: 4rem;
+    position: absolute;
+    bottom: 100px;
+}
+
+#player1Score {
+    left: 35%;
+}
+
+#player2Score {
+    right: 35%;
+}
